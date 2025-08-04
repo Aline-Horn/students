@@ -9,7 +9,7 @@ Suivez ces étapes pour cloner et exécuter ce projet localement.
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/students.git
+git clone https://github.com/Aline-Horn/students.git
 cd students
 
 2. Installer les dépendances
